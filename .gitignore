@@ -398,3 +398,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Add .idea folder to ignore if you are not using JetBrains Rider
+.idea/
